@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Gutierrez (Guty)</h1>
 <h3 align="center">Looking forward to making the best out of myself.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyguti&label=Profile%20views&color=0e75b6&style=flat" alt="danyguti" /> </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=danyGuty&label=Profile%20Views&color=9&icon=1&pretty=true" />
+</a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyguti" alt="danyguti" /></a> </p>
 
 - 🌱 I’m currently studying **Fifth semester in Software Engineering**
