@@ -6,7 +6,7 @@
 </a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyguti" alt="danyguti" /></a> </p>
 
-- 🌱 I’m currently studying **Sixth semester in Software Engineering**
+- 🌱 I’m currently studying **Seventh semester in Software Engineering**
 
 - 👯 I’m looking to collaborate on **Mobile app development**
 
