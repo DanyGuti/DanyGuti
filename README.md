@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Daniel Gutierrez (Guty)</h1>
 <h3 align="center">Looking forward to making the best out of myself.</h3>
 
-- 🌱 **Graduate as Software Engineering Tec de Monterrey Campus Queretaro 2025**
+- **Graduate as Software Engineering Tec de Monterrey Campus Queretaro 2025**
 
-- 👯 I’m looking to collaborate and work on **Full-stack, frontend and/or backend development**
+- 💼 **OLLIN** Architect, Owner and CEO
 
-- 💬 Ask me about **Optimizing code or general algorithms**
+- ✍🏼 **Theory of Self Loop** writer
 
-- 📫 How to reach me **danyguti2001@hotmail.com**
+- 📫 How to reach me **danyguti2001@hotmail.com** or **ollinsaas@gmail.com**
 
-- ⚡ Facts **Squash, running and chess amateur**
+- ⚡ Facts **Squash, running and chess amateur (1700 ELO)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
